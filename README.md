@@ -3,8 +3,8 @@ Namaskaram/Vanakkam/Hello- 👋 Hi, I’m @bhavyakkins
 - 🌱 I’m currently learning Formal Verification
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me @bhavyakkins
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 bhavyakkins/bhavyakkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
